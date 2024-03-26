@@ -1,0 +1,6 @@
+2024/03/24-14:58:05.768 2574 Creating DB D:/Developpement/UnrealProjects/FoliageGrowthEffect/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/24-14:58:05.790 2574 Reusing MANIFEST D:/Developpement/UnrealProjects/FoliageGrowthEffect/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/24-15:00:30.131 1394 Level-0 table #5: started
+2024/03/24-15:00:30.145 1394 Level-0 table #5: 1167 bytes OK
+2024/03/24-15:00:30.146 1394 Delete type=0 #3
+2024/03/24-15:00:30.147 1394 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
